@@ -1,6 +1,6 @@
 # Filer downloads
 
-Filer is a Windows 11 file manager with a browser sidebar. Files stay on your PC. The sidebar requires the Filer Windows companion, which runs locally at `127.0.0.1:47821`.
+Filer is a Windows 11 file manager with a browser sidebar. File access is local by default. The sidebar requires the Filer Windows companion, which runs at `127.0.0.1:47821`. An optional AI ranking feature in the Windows app can send search terms and limited candidate metadata to TypeSafe AI when you enable it.
 
 ## Install
 
