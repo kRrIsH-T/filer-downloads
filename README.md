@@ -4,7 +4,7 @@ Filer is a Windows 11 file manager with a browser sidebar. File access is local 
 
 ## Install
 
-1. Download `filer-windows-0.3.0.zip` from the [latest release](https://github.com/kRrIsH-T/filer-downloads/releases/latest) and extract the entire ZIP.
+1. Download `filer-windows-0.3.2.zip` from the [latest release](https://github.com/kRrIsH-T/filer-downloads/releases/latest) and extract the entire ZIP.
 2. Open PowerShell in the extracted folder and run:
 
    ```powershell
