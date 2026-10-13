@@ -2,6 +2,8 @@
 
 Filer is a Windows 11 file manager with a browser sidebar. File access is local by default. The sidebar requires the Filer Windows companion, which runs at `127.0.0.1:47821`. An optional AI ranking feature in the Windows app can send search terms and limited candidate metadata to TypeSafe AI when you enable it.
 
+The [complete source code and primary releases](https://github.com/kRrIsH-T/filer) are now on GitHub. This repository remains a download and privacy-policy mirror.
+
 ## Install
 
 1. Download `filer-windows-0.3.2.zip` from the [latest release](https://github.com/kRrIsH-T/filer-downloads/releases/latest) and extract the entire ZIP.
